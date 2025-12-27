@@ -5,7 +5,7 @@ A full-stack Retrieval-Augmented Generation (RAG) application that allows users 
 ![Architecture Diagram](./screenshots/architecture-diagram.png)
 
 ## 🎥 Demo Video
-![RAG Application Demo](https://via.placeholder.com/800x400?text=RAG+Application+Demo)
+![RAG Application Demo](./demo/demo.mp4)
 
 ## 📸 Screenshots
 
@@ -302,10 +302,11 @@ curl http://localhost:11434/api/tags
 - **HuggingFace** - Embedding models
 
 ## 🔗 Links
+![RAG Application Demo](./demo/demo.mp4)
+![Architecture Diagram](./screenshots/architecture-diagram.png)
 
 - [Video Presentation](https://youtu.be/YOUR_VIDEO_LINK)
 - [Architecture Diagram](./screenshots/architecture-diagram.png)
+- ![RAG Pipeline](./screenshots/rag-pipeline-architecture.png)
 
 ---
-
-**Built with ❤️ for academic research and document analysis**
