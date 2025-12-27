@@ -1,0 +1,23 @@
+# Backend Requirements
+fastapi==0.109.0
+uvicorn==0.27.0
+python-multipart==0.0.6
+sqlalchemy==2.0.25
+pydantic==2.5.3
+pydantic-settings==2.1.0
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+python-dotenv==1.0.0
+
+# RAG Pipeline
+langchain==0.1.6
+langchain-community==0.0.19
+chromadb==0.4.22
+pypdf==4.0.1
+sentence-transformers==2.3.1
+
+# LLM Integration
+ollama==0.1.6
+
+# Additional utilities
+aiofiles==23.2.1
