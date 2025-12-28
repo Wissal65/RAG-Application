@@ -1,4 +1,4 @@
-# 📚 Academic RAG Application - NotebookLM Clone
+# 📚 Academic RAG Application
 
 A full-stack Retrieval-Augmented Generation (RAG) application that allows users to upload documents (PDFs and text) and have intelligent conversations with their content using AI. Built with React, FastAPI, and LangChain.
 
